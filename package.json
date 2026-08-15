@@ -1,0 +1,19 @@
+{
+  "name": "marketlink-distribution",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "import-products": "python3 scripts/import-products.py && npm run optimize-images",
+    "optimize-images": "node scripts/optimize-images.mjs",
+    "qa": "node tests/site-smoke.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1",
+    "sharp": "^0.35.3",
+    "vite": "8.2.1"
+  }
+}
