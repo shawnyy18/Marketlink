@@ -4,7 +4,7 @@ export const products = [
   {
     "id": "purified-water-0",
     "brand": "AQUA FRESH",
-    "name": "Purified Water",
+    "name": "Purified Water 350ml",
     "category": "Beverages",
     "categorySlug": "beverages",
     "image": "/assets/products/purified-water-0.webp",
@@ -15,7 +15,7 @@ export const products = [
   {
     "id": "purified-water",
     "brand": "AQUA FRESH",
-    "name": "Purified Water",
+    "name": "Purified Water 500ml",
     "category": "Beverages",
     "categorySlug": "beverages",
     "image": "/assets/products/purified-water.webp",
@@ -488,7 +488,7 @@ export const products = [
   {
     "id": "butter-cream",
     "brand": "Wookie Cookie",
-    "name": "Butter Cream",
+    "name": "Butter Cream 108g",
     "category": "Cookies & Wafers",
     "categorySlug": "cookies",
     "image": "/assets/products/butter-cream.webp",
@@ -499,7 +499,7 @@ export const products = [
   {
     "id": "butter-cream-1",
     "brand": "Wookie Cookie",
-    "name": "Butter Cream",
+    "name": "Butter Cream 216g",
     "category": "Cookies & Wafers",
     "categorySlug": "cookies",
     "image": "/assets/products/butter-cream-1.webp",
@@ -510,7 +510,7 @@ export const products = [
   {
     "id": "chocolate-chip-1",
     "brand": "Wookie Cookie",
-    "name": "Chocolate Chip",
+    "name": "Chocolate Chip 108g",
     "category": "Cookies & Wafers",
     "categorySlug": "cookies",
     "image": "/assets/products/chocolate-chip-1.webp",
@@ -521,7 +521,7 @@ export const products = [
   {
     "id": "chocolate-chip-2",
     "brand": "Wookie Cookie",
-    "name": "Chocolate Chip",
+    "name": "Chocolate Chip 180g Tin",
     "category": "Cookies & Wafers",
     "categorySlug": "cookies",
     "image": "/assets/products/chocolate-chip-2.webp",
@@ -532,7 +532,7 @@ export const products = [
   {
     "id": "chocolate-chip-0",
     "brand": "Wookie Cookie",
-    "name": "Chocolate Chip",
+    "name": "Chocolate Chip 216g",
     "category": "Cookies & Wafers",
     "categorySlug": "cookies",
     "image": "/assets/products/chocolate-chip-0.webp",
@@ -543,7 +543,7 @@ export const products = [
   {
     "id": "delicious-nuts-1",
     "brand": "Wookie Cookie",
-    "name": "Delicious Nuts",
+    "name": "Delicious Nuts 108g",
     "category": "Cookies & Wafers",
     "categorySlug": "cookies",
     "image": "/assets/products/delicious-nuts-1.webp",
@@ -554,7 +554,7 @@ export const products = [
   {
     "id": "delicious-nuts-0",
     "brand": "Wookie Cookie",
-    "name": "Delicious Nuts",
+    "name": "Delicious Nuts 216g",
     "category": "Cookies & Wafers",
     "categorySlug": "cookies",
     "image": "/assets/products/delicious-nuts-0.webp",
@@ -708,7 +708,7 @@ export const products = [
   {
     "id": "snack-mix",
     "brand": "HAPPY MUNCH",
-    "name": "Snack Mix",
+    "name": "Snack Mix 300g Pouch",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/snack-mix.webp",
@@ -719,7 +719,7 @@ export const products = [
   {
     "id": "snack-mix-0",
     "brand": "HAPPY MUNCH",
-    "name": "Snack Mix",
+    "name": "Snack Mix 320g Jar",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/snack-mix-0.webp",
@@ -741,7 +741,7 @@ export const products = [
   {
     "id": "green-peas-snack-0",
     "brand": "KAROKE",
-    "name": "Green Peas Snack",
+    "name": "Green Peas Snack 70g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/green-peas-snack-0.webp",
@@ -752,7 +752,7 @@ export const products = [
   {
     "id": "green-peas-snack",
     "brand": "KAROKE",
-    "name": "Green Peas Snack",
+    "name": "Green Peas Snack 30g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/green-peas-snack.webp",
@@ -1137,7 +1137,7 @@ export const products = [
   {
     "id": "barbecue-flavor-0",
     "brand": "WACKIE! CORN CHIPS",
-    "name": "Barbecue Flavor",
+    "name": "Barbecue Flavor 30g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/barbecue-flavor-0.webp",
@@ -1148,7 +1148,7 @@ export const products = [
   {
     "id": "barbecue-flavor",
     "brand": "WACKIE! CORN CHIPS",
-    "name": "Barbecue Flavor",
+    "name": "Barbecue Flavor 100g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/barbecue-flavor.webp",
@@ -1159,7 +1159,7 @@ export const products = [
   {
     "id": "cheese-flavor-1",
     "brand": "WACKIE! CORN CHIPS",
-    "name": "Cheese Flavor",
+    "name": "Cheese Flavor 98g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/cheese-flavor-1.webp",
@@ -1170,7 +1170,7 @@ export const products = [
   {
     "id": "cheese-flavor-0",
     "brand": "WACKIE! CORN CHIPS",
-    "name": "Cheese Flavor",
+    "name": "Cheese Flavor 100g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/cheese-flavor-0.webp",
@@ -1181,7 +1181,7 @@ export const products = [
   {
     "id": "cheese-flavor",
     "brand": "WACKIE! CORN CHIPS",
-    "name": "Cheese Flavor",
+    "name": "Cheese Flavor 30g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/cheese-flavor.webp",
@@ -1225,7 +1225,7 @@ export const products = [
   {
     "id": "sweet-corn-flavor-0",
     "brand": "WACKIE! CORN CHIPS",
-    "name": "Sweet Corn Flavor",
+    "name": "Sweet Corn Flavor 98g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/sweet-corn-flavor-0.webp",
@@ -1236,7 +1236,7 @@ export const products = [
   {
     "id": "sweet-corn-flavor",
     "brand": "WACKIE! CORN CHIPS",
-    "name": "Sweet Corn Flavor",
+    "name": "Sweet Corn Flavor 30g",
     "category": "Snacks",
     "categorySlug": "snacks",
     "image": "/assets/products/sweet-corn-flavor.webp",
